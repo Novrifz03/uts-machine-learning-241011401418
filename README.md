@@ -34,7 +34,7 @@ Hasil evaluasi model:
   </thead>
   <tbody>
     <tr>
-      <th>0</th>
+      <th>1</th>
       <td>Training</td>
       <td>4.0424</td>
       <td>31.9135</td>
@@ -42,7 +42,7 @@ Hasil evaluasi model:
       <td>0.9556</td>
     </tr>
     <tr>
-      <th>1</th>
+      <th>2</th>
       <td>Testing</td>
       <td>6.3949</td>
       <td>54.5504</td>
@@ -73,22 +73,22 @@ Hasil evaluasi pada threshold 0.5:
   </thead>
   <tbody>
     <tr>
-      <th>0</th>
+      <th>1</th>
       <td>Accuracy</td>
       <td>100%</td>
     </tr>
     <tr>
-      <th>1</th>
+      <th>2</th>
       <td>Precision</td>
       <td>100%</td>
     </tr>
     <tr>
-      <th>2</th>
+      <th>3</th>
       <td>Recall</td>
       <td>100%</td>
     </tr>
     <tr>
-      <th>3</th>
+      <th>4</th>
       <td>F1-score</td>
       <td>100%</td>
     </tr>
@@ -108,22 +108,22 @@ Hasil evaluasi pada threshold 0.5:
   </thead>
   <tbody>
     <tr>
-      <th>0</th>
+      <th>1</th>
       <td>True Negative (TN)</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>1</th>
+      <th>2</th>
       <td>False Positive (FP)</td>
       <td>0</td>
     </tr>
     <tr>
-      <th>2</th>
+      <th>3</th>
       <td>False Negative (FN)</td>
       <td>0</td>
     </tr>
     <tr>
-      <th>3</th>
+      <th>4</th>
       <td>True Positive (TP)</td>
       <td>4</td>
     </tr>
